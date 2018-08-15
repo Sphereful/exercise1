@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">exercise2</string>
     <string name="edit_fragment">Edit Fragment</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
